@@ -5,10 +5,13 @@ body{
 }
 
 .logo{
-    font-size: 40px;
+    font-size: 80px;
     font-weight: bold;
     font-style: italic;
-    letter-spacing: 2px;
+    letter-spacing: 5px;
+    text-align: center;
+    display: block;
+    margin: 20px auto;
 }
 
 .logo-wheel{
@@ -17,7 +20,7 @@ body{
 
 .logo-mania{
     color: #ff2b2b;
-    text-shadow: 2px 2px 5px orange;
+    text-shadow: 4px 4px 8px orange;
 }
 
 .navbar{
